@@ -1,1 +1,1 @@
-# Fine-Grained-Aircraft
+# Fine-grained-Image-Classification
